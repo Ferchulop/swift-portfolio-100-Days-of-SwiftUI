@@ -5,4 +5,10 @@ Este repositorio recopila todas las apps y ejercicios que he desarrollado para d
 **https://www.hackingwithswift.com/100/swiftui**
 
 
+## ⚠️ IMPORTANTE:
+Cada carpeta contiene su propio README con información detallada sobre:
+	•	 El stack de tecnologías utilizadas.
+	•	 Lecciones aprendidas durante el desarrollo.
+	•	 Ideas clave y decisiones técnicas aplicadas.
 
+¡Gracias por visitar mi repositorio y a la comunidad iOS por tanto contenido y apoyo! 
