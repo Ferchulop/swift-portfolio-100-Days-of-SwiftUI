@@ -6,7 +6,7 @@ Este repositorio recopila todas las apps y ejercicios que he desarrollado para d
 
 
 ## ⚠️ IMPORTANTE:
-Cada carpeta contiene su propio README con información detallada sobre:
+Cada carpeta contiene su propio - README.md con información detallada sobre:
 
 - El stack de tecnologías utilizadas.
 - Lecciones aprendidas durante el desarrollo.
