@@ -12,8 +12,8 @@ del día 95 del reto **100 Days of SwiftUI**.
   - Fecha y hora
   - Número de dados
   - Total obtenido
-- Visualiza el historial de tiradas en una lista ordenada
-- Elimina resultados fácilmente
+- Visualiza el historial de tiradas en una lista ordenada.
+- Elimina resultados fácilmente.
 - Tiene efectos hápticos personalizados con `CoreHaptics` en cada tirada de dados.
   
 ![Simulator Screen Recording - iPhone 16 Pro - 2025-06-19 at 19 44 16](https://github.com/user-attachments/assets/3dddba7c-91d7-4391-96c6-8b61a0fc0ec3)
