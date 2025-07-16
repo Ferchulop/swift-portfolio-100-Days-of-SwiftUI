@@ -7,9 +7,9 @@ CupcakeCorner es una app desarrollada en SwiftUI, de pedidos de cupcakes. Permit
 - Solicitud especial: Uso de Toogle para añadir ingrediente extra.
 - Formulario para datos de cliente: Cumplimentar datos personales de cliente, uso de Form(datos personales), .disabled(para deshabilitar), @Bindable(actualizar vista automaticamente si alguna propiedad cambia)
 - Cálculo de Coste en Tiempo Real: Propiedad calculada(considera cantidad, tipo y extras), solicitud HTTP asíncrona(uso de **async y await**), URLSession(gestión de solicitudes HTTP), ScrollView, AsyncImage(carga y muestra imagenes), ProgressView(indicador de carga)
-<div style="display: flex; justify-content: space-around;">
-  ![Simulator Screen Recording - iPhone 16 - 2025-07-16 at 13 51 09](https://github.com/user-attachments/assets/e9579330-58a7-43e2-974c-0aa62e408bc5)
 
+ ![Simulator Screen Recording - iPhone 16 - 2025-07-16 at 13 51 09](https://github.com/user-attachments/assets/e9579330-58a7-43e2-974c-0aa62e408bc5)
+<div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/user-attachments/assets/38f7673d-1d28-4ba1-b7ef-9b25393ab7f5" alt="Low Connection" width="45%" /> 
 
 </div>
