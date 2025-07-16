@@ -16,4 +16,4 @@ BucketList es una app **MVVM** desarrollada en SwiftUI que permite a los usuario
 
  - **@escaping:** Ideal en operaciones asíncronas, como la función "fetchNearbyPlaces" en la vista de "EditView". Dado que el proceso de red o de carga de datos puede tardar, el "@escaping" permite que "fetchNearbyPlaces" complete su ejecución después de que el código haya salido del alcance de la función que lo llamó.
    
-![Simulator Screen Recording - iPhone 16 Pro - 2025-01-20 at 12 50 22](https://github.com/user-attachments/assets/dd774c70-c47f-4548-80ec-105e278c6b75)
+![Simulator Screen Recording - iPhone 16 Pro - 2025-07-16 at 14 13 41](https://github.com/user-attachments/assets/eb4742fd-aaeb-4892-9434-cfa39a74c848)
