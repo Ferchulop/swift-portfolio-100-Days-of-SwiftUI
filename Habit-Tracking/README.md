@@ -12,6 +12,4 @@ Habit-Tracking es una app desarrollada en SwiftUI, que permite a los usuarios re
 - El uso de colores y su posterior ajuste en función del progreso fue un challenge importante, tuve dificultades en el diseño y la lógica. Tuve que asegurarme de que la interfaz se actualizara correctamente al modificar los contadores.
 - La implementación del contador a la pantalla y su posterior ajuste presentó dificultades, ya que el texto y contador no se ajustaba correctamente.
 
-
-
-![Simulator Screen Recording - iPhone 16 Pro - 2024-11-02 at 20 07 32](https://github.com/user-attachments/assets/fd0b685f-bd7c-4533-af51-24757fcf7f00)
+![Simulator Screen Recording - iPhone 16 Pro - 2025-07-16 at 14 35 11](https://github.com/user-attachments/assets/95b439bd-71f6-4ec9-827a-06edf831a7c2)
