@@ -9,5 +9,5 @@ Edutainment es una app educativa desarrollada en SwiftUI que permite a los usuar
 - Visualización de las respuestas correctas después de cada pregunta.
 - Sistema de alertas que notifica el puntaje al terminar el juego.
 - Uso de protocolo Identifiable,cambios de estado con @State,Picker,Stepper,gradientes,alertas para el desarrollo de la app.
-  
-![Simulator Screen Recording - iPhone 16 Pro - 2024-09-29 at 19 39 56](https://github.com/user-attachments/assets/fe15a65c-c406-4807-b7a4-52b0f5e653e9)
+
+![Simulator Screen Recording - iPhone 16 Pro - 2025-07-16 at 13 36 00](https://github.com/user-attachments/assets/4aac129f-3e04-4cda-9707-73a630210ae8)
