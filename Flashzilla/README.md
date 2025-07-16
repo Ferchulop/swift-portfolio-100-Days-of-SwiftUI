@@ -6,4 +6,4 @@ Flashzilla es una app desarrollada en SwiftUI que simula un juego de repaso util
 - Reiniciar juego: Si todas las tarjetas han sido completadas, hay un botón para reiniciar el juego, con un tiempo límite predeterminado utilizando la clase **Timer**.
 
 
-![Simulator Screen Recording - iPhone 16 Pro - 2025-04-03 at 20 19 09](https://github.com/user-attachments/assets/c655eecf-2cb4-435d-9aa5-20906538c9e0)
+![Simulator Screen Recording - iPhone 16 Pro - 2025-07-16 at 13 44 59](https://github.com/user-attachments/assets/5d23e8ae-a43b-4cc0-803c-a91895867e07)
