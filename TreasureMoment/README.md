@@ -12,4 +12,4 @@ La organización para no romper el orden de la interfaz fue otro challenge a des
 ### 3. **Visualizar la última localización disponible al importar la imagen:**
 El mayor challenge de todos fue asociar la ubicación geográfica con cada foto de manera correcta. Cuando se importaba una imagen, necesitaba asociar las coordenadas de la última localización disponible del iPhone a la foto, pero sólo si ya estaba disponible. Si la localización no estaba en ese momento, la app debía manejar la visualización de una ubicación predeterminada y, una vez que la localización real estuviera disponible, actualizarla automáticamente.
 
-![Simulator Screen Recording - iPhone 16 Pro - 2025-01-31 at 14 15 06 (1)](https://github.com/user-attachments/assets/471dabdc-0bec-4db2-ad0c-83ac25236185)
+![Simulator Screen Recording - iPhone 16 Pro - 2025-07-16 at 18 07 10](https://github.com/user-attachments/assets/dbccb995-26c2-44b1-a374-f92ef9b40f77)
