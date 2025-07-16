@@ -7,7 +7,4 @@ BetterRest es una app desarrollada en SwiftUI que utiliza **CoreML** para recome
 - Uso el framework CoreML y su clase MLModelConfiguration para configurar el modelo de machine learning.
 - DateComponents para el manejo de horas y fechas, DatePicker, Stepper, Picker, Form para el desarrollo  de la app.
 
-![Simulator Screen Recording - iPhone 16 Pro - 2024-09-29 at 23 15 37](https://github.com/user-attachments/assets/c1b008a1-85d2-4753-8b33-b0870d79332e)
-
-
-
+![Simulator Screen Recording - iPhone 16 Pro - 2025-07-16 at 14 22 34](https://github.com/user-attachments/assets/c80f059f-1929-4f62-a1cf-982283df5919)
