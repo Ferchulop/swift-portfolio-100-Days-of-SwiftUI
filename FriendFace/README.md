@@ -17,7 +17,8 @@ FriendF☻ce es una app desarrollada en SwiftUI que permite gestionar y visualiz
 ### 4. **Complejidad del Modelo "User"**
 - El modelo "User" fue uno de los componentes más complejos de la aplicación. Utilicé un **init**  y un **required init** requerido para asegurar que todas las propiedades necesarias estuvieran correctamente inicializadas. Además, implementé métodos de codificación y decodificación ("encode" y "decode") utilizando **CodingKeys**, lo que me permitió mapear correctamente los datos entre el formato JSON y los objetos Swift. Fundamental para garantizar que los datos del usuario se manejaran de manera consistente tanto en el almacenamiento local como en la interfaz de usuario.
 
-![Simulator Screen Recording - iPhone 16 Pro - 2024-12-02 at 14 21 08](https://github.com/user-attachments/assets/2d0fe3cb-dc14-46ba-b4b5-91252433e36c)
+![Simulator Screen Recording - iPhone 16 Pro - 2025-07-16 at 14 27 08](https://github.com/user-attachments/assets/37cf1157-e9ab-4a19-a0bf-efca94f8cbad)
+
 
 
 
