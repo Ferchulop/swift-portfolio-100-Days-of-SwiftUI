@@ -9,4 +9,4 @@ Bookworm es una app desarrollada en SwiftUI, utilizando SwiftData. Para gestiona
 - Vistas personalizadas para calificacion: uso de @Binding(comparte y modifica el valor de calificación entre vista hija a padre), funcion para retornar imagenes segun calificacion en ContentView, uso de switch para contemplar las posibles calificaciones.
 - ContentView: Uso de @Query(consulta para obtener de forma ordenada libros por titulo y autor), NavigationDestination(muestra vista de detalles), .sheet(para mostrar vista formulario de libro al añadir con boton "+"), .OnDelete(modificador para eliminar libros de la lista).
   
-![Simulator Screen Recording - iPhone 16 Pro - 2024-11-25 at 17 43 18](https://github.com/user-attachments/assets/acbb2b4f-48db-441f-ab20-0d7a49ccb45b)
+![Uploading Simulator Screen Recording - iPhone 16 Pro - 2025-07-16 at 14.01.08.gif…]()
